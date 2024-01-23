@@ -1,2 +1,3 @@
 This is a new content
 I fix the bug 😎
+And the other bug too 😉
