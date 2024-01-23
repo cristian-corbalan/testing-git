@@ -1,3 +1,4 @@
 This is a new content
 I fix the bug 😎
 And the other bug too 😉
+And this is a content added from a branch
