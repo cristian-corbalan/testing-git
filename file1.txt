@@ -1,4 +1,1 @@
-This is a new content
-I fix the bug 😎
-And the other bug too 😉
-And this is a content added from a branchNew content to push in the remote repo
+Content to create conflicts
